@@ -1,0 +1,16 @@
+# Ignore node_modules in any folder
+**/node_modules/
+
+# Ignore .env files anywhere
+**/.env
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+
+# Optional: build folders
+build/
+dist/
